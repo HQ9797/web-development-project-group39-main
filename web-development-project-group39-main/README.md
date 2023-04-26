@@ -4,6 +4,14 @@ This is the starter repository for the COMP2110 Portal front end assignment 2023
 expected to customise this README file to describe your own project.  You may delete or modify
 any or all of the current contents.
 
+widget allocated to members:
+Hansen : Currency widget
+Brendan : Weather widget
+Patrick : either random facts or holiday widget
+
+commitng 
+
+
 ## Installation
 
 The project has no external dependencies, it uses Lit via a CDN load directly into
